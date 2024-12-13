@@ -1,0 +1,14 @@
+.hero2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 140px;
+
+    img {
+        transition: 0.1s;
+    }
+
+    img:hover {
+        scale: 1.04;
+    }
+}
+
